@@ -17,7 +17,6 @@ The repository is structured as follows:
 - **src/**: Contains the Jupyter Notebooks and Python scripts used for data analysis.
 - **images/**: Reserved space for saving visualizations and graphs generated during analysis.
 - **all_data.csv**: A CSV file created after preprocessing, containing the consolidated data.
-- **requirements.txt**: Lists the Python libraries and their versions required for running the code.
 
 ## Installation
 To run the code in this project, you'll need Python 3.x and the required libraries. You can install the necessary dependencies using the following command:
