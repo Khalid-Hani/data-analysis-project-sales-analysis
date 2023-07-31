@@ -2,7 +2,7 @@
 
 # Data Analysis Project: Sales Analysis
 
-![Project Logo](images/Project_Logo.PNG)
+![Project Logo](images/project_logo.PNG)
 
 ## Overview
 This repository contains a data analysis project that focuses on analyzing sales data to gain valuable insights. The dataset consists of sales data from multiple months, and we aim to answer several business questions using Python's pandas library.
