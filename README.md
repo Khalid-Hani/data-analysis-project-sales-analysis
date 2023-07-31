@@ -55,7 +55,7 @@ Here are some visualizations generated during the analysis:
 ![Products Sold Together](images/products_often_sold_together.PNG)
 
 ## Acknowledgments
-This project was completed by following the instructions and guidance provided in the YouTube channel by **Keith Galli**. Thank you for the insightful tutorials and practical data analysis techniques.
+This project was completed by following the instructions and guidance provided in the YouTube channel by **Keith Galli** [Keith Galli](https://www.youtube.com/@KeithGalli). Thank you for the insightful tutorials and practical data analysis techniques.
 
 ## Conclusion
 Through this data analysis project, we gained valuable insights into the sales data. We identified the best month for sales, the city with the highest sales, the best time for displaying ads, and products that are often sold together. The findings can guide business decisions and strategies to improve sales and revenue.
