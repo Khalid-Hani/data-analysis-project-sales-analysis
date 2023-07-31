@@ -43,16 +43,16 @@ We'll analyze the products that are often sold together, providing insights into
 Here are some visualizations generated during the analysis:
 
 ### Monthly Sales Analysis
-![Monthly Sales](images/Monthly Sales Analysis.png)
+![Monthly Sales](images/monthly_sales_analysis.png)
 
 ### City-wise Sales Analysis
-![City-wise Sales](images/City-wise Sales Analysis.png)
+![City-wise Sales](images/city_wise_sales_analysis.png)
 
 ### Time-based Analysis
-![Time-based Analysis](images/Time-based Analysis.png)
+![Time-based Analysis](images/time_based_analysis.png)
 
 ### Products Often Sold Together
-![Products Sold Together](images/Products Often Sold Together.png)
+![Products Sold Together](images/products_often_sold_together.png)
 
 ## Acknowledgments
 This project was completed by following the instructions and guidance provided in the YouTube channel by **Keith Galli**. Thank you for the insightful tutorials and practical data analysis techniques.
