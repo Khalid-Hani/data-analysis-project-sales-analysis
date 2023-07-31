@@ -64,8 +64,6 @@ Feel free to explore the code and analyses in the 'src/' folder.
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
-###
-Big thanks for @Keith Galli , my main guid in this project and the owner of the algorethem
 
 ## Contact
 If you have any questions or suggestions regarding this project, feel free to contact me at [khalidhani1996@gmail.com](mailto:khalidhani1996@gmail.com).
