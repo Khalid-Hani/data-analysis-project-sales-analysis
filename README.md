@@ -52,7 +52,7 @@ Here are some visualizations generated during the analysis:
 ![Time-based Analysis](images/time_based_analysis.png)
 
 ### Products Often Sold Together
-![Products Sold Together](images/products_often_sold_together.png)
+![Products Sold Together](images/products_often_sold_together.PNG)
 
 ## Acknowledgments
 This project was completed by following the instructions and guidance provided in the YouTube channel by **Keith Galli**. Thank you for the insightful tutorials and practical data analysis techniques.
